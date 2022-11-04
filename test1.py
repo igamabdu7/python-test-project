@@ -13,7 +13,7 @@ def echo(update, context):
 def main():
 
     TOKEN = '5706692876:AAH4koty82x0uwJtc5Pq9whVFDrM6RunQjc'
-    APP_NAME = ''
+    APP_NAME = 'https://telegrambeta1.herokuapp.com/'
 
     updater = Updater(TOKEN, use_context=True)
 
